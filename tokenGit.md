@@ -1,0 +1,3 @@
+# token para subir projetos git
+
+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
